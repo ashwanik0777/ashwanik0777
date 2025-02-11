@@ -9,6 +9,7 @@ I'm a passionate software developer with a keen interest in building efficient a
 
 - 🌱 **Currently Learning:**
   - Advanced algorithms and data structures
+  - FullStack Web Developer
   - DevOps and cloud computing with AWS
   - Machine learning and AI
 
@@ -63,4 +64,5 @@ I'm a passionate software developer with a keen interest in building efficient a
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
