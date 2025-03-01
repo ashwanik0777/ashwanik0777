@@ -18,8 +18,8 @@ I'm a passionate software developer with a keen interest in building efficient a
   - iTask-Todo Task manager ([GitHub repo link](https://ashwanik0777.github.io/todo-web/))
 
 - 💬 **Ask Me About:**
-  - Python, JavaScript, and Java
-  - Web development (React, Node.js)
+  - C,C++,JavaScript, and Java
+  - Web development (React, Node.js,NextJs)
   - Open-source contributions
 
 
