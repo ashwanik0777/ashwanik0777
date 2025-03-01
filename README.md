@@ -14,8 +14,8 @@ I'm a passionate software developer with a keen interest in building efficient a
   - Machine learning and AI
 
 - 🔭 **Projects:**
-  - [Project Name](GitHub repo link): Brief description of the project.
-  - [Another Project](GitHub repo link): Brief description of the project.
+  - Password Manager [(GitHub repo link)](https://ashwanik0777.github.io/Password-Manager/)
+  - iTask-Todo Task manager ([GitHub repo link](https://ashwanik0777.github.io/todo-web/))
 
 - 💬 **Ask Me About:**
   - Python, JavaScript, and Java
