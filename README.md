@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - 🌱 I’m currently learning **FullStack Web Developer**
-- 👨‍💻 All of my projects are available at [Portfolio](https://ashwanik0777.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ashwanik.me)
 - 💬 Ask me about **Next.js**
 - ⚡ Fun fact **I love Gaming**
 
