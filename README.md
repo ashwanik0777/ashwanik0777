@@ -11,7 +11,7 @@
   
 [![FullStack Web Developer](https://img.shields.io/badge/Currently%20Learning-FullStack%20Web%20Dev-orange?style=flat-square&logo=bookstack)](#)
 [![Next.js Lover](https://img.shields.io/badge/Ask%20me%20about-Next.js-000?style=flat-square&logo=next.js&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-29b6f6?style=flat-square&logo=About.me&logoColor=white)](https://ashwanik.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-29b6f6?style=flat-square&logo=About.me&logoColor=white)](https://ashwanik.me)
 [![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I%20love%20Gaming-ffb347?style=flat-square&logo=steam&logoColor=white)](#)
   
 </div>
